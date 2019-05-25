@@ -1,4 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Hello World",
+      "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "Foobar",
+      "id": 2
+    }
+  ]
 }
-
